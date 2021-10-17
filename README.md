@@ -1,15 +1,17 @@
 <h1 align="center">Hola 👋, I'm Ankan Bhattacharya</h1>
 <h3 align="center">A coder hustling to become a full-stack developer, be it mobile or web. Jokes apart I am a third year CS Diploma student with intermediate problem solving skills and Data Structures knowledge. The language that I use for DSA and Problem Solving is generally JAVA. But contradicting to general people's habit I generally use JavaScript or TypeScript to build my projects as they are either on web or mobile in React, React Native, Node, Express, etc... Wanna develop together just reach out to me on the mail id given below.....</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan002&label=Profile%20views&color=0e75b6&style=flat" alt="ankan002" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankan002" alt="ankan002" /></a> </p>
 
-- 🌱 Currently husting with **React, React Native and Node**
+- 🌱 Implementing my ideas with **React, React Native and Node**
 
 - 👨‍💻 Some of my works and more about me is available on [https://my-portfolio-ankan002.vercel.app/](https://my-portfolio-ankan002.vercel.app/)
 
-- 📫 How to reach me **ankanbhattacharya89@gmail.com**
+- 📫 **ankanbhattacharya89@gmail.com**
 
-- ⚡ Fun fact **All programmers are coders but all coders are not programmers**
+- ⚡ **All programmers are coders but all coders are not programmers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

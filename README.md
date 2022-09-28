@@ -8,8 +8,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ankan002&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-[![@ankan002's Holopin board](https://holopin.io/api/user/board?user=ankan002)](https://holopin.io/@ankan002)
-
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

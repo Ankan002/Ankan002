@@ -44,7 +44,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ankan002&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ankan002&theme=synthwave&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankan002&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ankan002&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ankan002) 
